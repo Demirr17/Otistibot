@@ -1,0 +1,2 @@
+# Otistibot
+Otistik değil
